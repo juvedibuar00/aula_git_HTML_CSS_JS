@@ -11,5 +11,5 @@
 # Imagem do meu markdown
 
 
-![Homem das frutas](https://abacatesdobrasil.org.br/wp-content/uploads/2020/06/51521521520v4.jpg)
+![Homem das frutas](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hortifrutas.pt%2Fproduct%2Fbatata-doce-roxa&psig=AOvVaw1uiwVQTjPzCuuqmBXBSK4O&ust=1717346354733000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC_zvHruoYDFQAAAAAdAAAAABA5)
 
