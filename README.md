@@ -10,4 +10,6 @@
 
 # Imagem do meu markdown
 
-https://abacatesdobrasil.org.br/wp-content/uploads/2020/06/51521521520v4.jpg
+
+![Homem das frutas](https://abacatesdobrasil.org.br/wp-content/uploads/2020/06/51521521520v4.jpg)
+
