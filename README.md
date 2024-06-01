@@ -4,7 +4,7 @@
 # Juvenaldo Florentino Canja
 
 ## Lista com 3 linguagens de programação
-- JS
+- JavaScript
 - Python
 - SQL
 
